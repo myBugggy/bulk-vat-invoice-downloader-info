@@ -1,0 +1,4 @@
+# Exclude extension binary packages and any source code
+*.zip
+*.crx
+*.pem
